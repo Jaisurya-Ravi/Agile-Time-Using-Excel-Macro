@@ -61,11 +61,11 @@ https://github.com/jaisuryaravi/SeleniumAutomationUDY.git
 
 # Enabling of buttons
 
-1. Open the downloaded excel sheet go to file > option
-2. Access teh option quick access toolbar from the left pane
-3. enable the option "Show Quick Access Toolbar below the Ribbon"
-4. click on ok to complete
-5. Now you could able to see the button in your excel sheet ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ee347425-a74d-4303-b074-d84c2db48526)
+1. Start by opening the Excel spreadsheet that you downloaded, then navigate to File > Options.
+2. Go to the Quick Access Toolbar option in the left pane.
+3. Activate the "Show Quick Access Toolbar below the Ribbon" setting.
+4. Click on OK to save your changes and finish.
+5. You will now be able to see the button on your Excel spreadsheet. ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ee347425-a74d-4303-b074-d84c2db48526)
 
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/1185318d-d5ed-4a24-bd3d-8a0f9d13bf19)
@@ -73,4 +73,5 @@ https://github.com/jaisuryaravi/SeleniumAutomationUDY.git
 
 
 
-Thank you for using Agile Timesheet Automation!
+## Thank you for using Agile Timesheet Automation!
+## For Queries jaisurya.r@agile-labs.com
