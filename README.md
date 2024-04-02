@@ -7,8 +7,8 @@ Ensure you have the following prerequisites installed on your system:
 
 - Microsoft Office 2007 or newer.
 - Selenium Basic: [Download](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)).
-- EA Sendmail Component Manager: [Download]([https://sites.google.com/chromium.org/driver/](https://www.emailarchitect.net/webapp/download/easendmail.exe)
-- Browser Driver (e.g., Chromedriver): [Download[(https://chromedriver.chromium.org/downloads)
+- EA Sendmail Component Manager: [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe)
+- Browser Driver (e.g., Chromedriver): [Download](https://chromedriver.chromium.org/downloads)
 
 # Installation Steps
 
