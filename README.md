@@ -35,10 +35,22 @@ https://github.com/jaisuryaravi/SeleniumAutomationUDY.git
 ```
 
 # Screenshots
+
 ## User Details - Enter your Agile Time username, password, email ID, and manager ID in the respective cells.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/f5e9ed4f-d0e1-4b72-95fc-c00f29d46bcd)
+
 ## Master Details - This sheet automatically updates eligible task details based on your Agile Time records when you click the "Update master data" button.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/57108827-6def-41b2-bb21-a0ecdc0b7c02)
+
 ## Timesheet Details - Fill out your task details in this sheet, and the system will automatically update your timesheet in your Agile Time account when you click the "Upload timesheet" button.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/810a1f33-c26d-478c-8f2b-89b7384858b2)
+
 ## Configure email settings such as SMTP address, host, from email ID, subject, and body. Clicking the "Mail my Timesheet" button will automatically send an email to your specified email ID.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/8d8948d5-4f5b-411f-80db-977b692df1f4)
 
 
 Thank you for using Agile Timesheet Automation!
