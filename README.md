@@ -32,7 +32,7 @@ Clone this repository to your local machine to access the macro-enabled Excel fi
 
 ```bash
 https://github.com/jaisuryaravi/SeleniumAutomationUDY.git
-```bash
+```
 
 # Screenshots
 ## User Details - Enter your Agile Time username, password, email ID, and manager ID in the respective cells.
