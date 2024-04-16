@@ -34,7 +34,7 @@ Ensure you have the following prerequisites installed on your system:
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
 ```bash
-[https://github.com/jaisuryaravi/SeleniumAutomationUDY.git](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro.git)
+https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro.git
 ```
 
 # Screenshots
