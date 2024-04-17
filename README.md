@@ -99,59 +99,23 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 
 # 6 Features Overview
 
-1. User Details Sheet - Input your Agile Time username, password, email ID, and manager ID in the corresponding cells.
-2. Master Details Sheet and 'Update Master Data' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/14bb8ace-4570-4c32-8ad0-f7e5ad542efc)
+1. **User Details Sheet** - Input your Agile Time username, password, email ID, and manager ID in the corresponding cells.
+2. **Master Details Sheet** and **'Update Master Data'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/14bb8ace-4570-4c32-8ad0-f7e5ad542efc)
  Button - Automatically updates eligible task details from your Agile Time records when you click 'Update master data.'
-3. Timesheet Details Sheet and 'Upload Timesheet' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/7d4708ad-23b3-4cc1-b2a2-928084c2fd9b)
- Button - Fill out task details; clicking 'Upload timesheet' updates your timesheet in Agile Time.
-4. Configuration Sheet and 'Mail My Timesheet' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ac17dcb8-61b3-4206-be30-bbb287af1cd7)
+3. **Timesheet Details Sheet** and **'Upload Timesheet'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/7d4708ad-23b3-4cc1-b2a2-928084c2fd9b)
+ Button - Fill out task details, clicking 'Upload timesheet' updates your timesheet in Agile Time.
+4. **Configuration Sheet** and **'Mail My Timesheet'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ac17dcb8-61b3-4206-be30-bbb287af1cd7)
  Button - Configure email settings like SMTP address, host, sender email ID, subject, and body. 'Mail my Timesheet' sends an email to your specified address.
-5. 'User Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd02e629-c637-4a98-a04d-9ae038f5daed)
+5. **'User Details'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd02e629-c637-4a98-a04d-9ae038f5daed)
  Button - Navigates to the 'User Details' Sheet.
-6. 'Master Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/89aa7427-2075-47d3-aa5f-e8d167a73b4b)
+6. **'Master Details'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/89aa7427-2075-47d3-aa5f-e8d167a73b4b)
  Button - Navigates to the 'Master Details' Sheet.
-7. 'Mail Configuration' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d97b6c7f-b9d8-4be6-ba09-f3f7884d7664)
+7. **'Mail Configuration'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d97b6c7f-b9d8-4be6-ba09-f3f7884d7664)
   Button - Navigates to the 'Configuration' Sheet.
-8. 'Fill Timesheet Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/cc380356-1ef6-42f5-b873-1f35dbcb48af)
+8. **'Fill Timesheet Details'** ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/cc380356-1ef6-42f5-b873-1f35dbcb48af)
  Button - Navigates to the 'Timesheet Details' Sheet upon click.
+</br>
+</br>
 
-
-
-
-## User Details - Enter your Agile Time username, password, email ID, and manager ID in the respective cells.
-
-![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/f5e9ed4f-d0e1-4b72-95fc-c00f29d46bcd)
-
-## Master Details - This sheet automatically updates eligible task details based on your Agile Time records when you click the "Update master data" button. ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d0477370-642a-440a-9ad5-1fbb95e0eee2)
-
-
-![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/57108827-6def-41b2-bb21-a0ecdc0b7c02)
-
-## Timesheet Details - Fill out your task details in this sheet, and the system will automatically update your timesheet in your Agile Time account when you click the "Upload timesheet" button. ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/7bc09cda-91d8-48ae-bd6c-10cd38686889)
-
-
-![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/810a1f33-c26d-478c-8f2b-89b7384858b2)
-
-## Configure email settings such as SMTP address, host, from email ID, subject, and body. Clicking the "Mail my Timesheet" button will automatically send an email to your specified email ID. ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/2d3769d2-e65f-4d7c-85d8-266b45de4efa)
-
-
-![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/8d8948d5-4f5b-411f-80db-977b692df1f4)
-
-
-# Enabling of buttons
-
-1. Start by opening the Excel spreadsheet that you downloaded, then navigate to File > Options.
-2. Go to the Quick Access Toolbar option in the left pane.
-3. Activate the "Show Quick Access Toolbar below the Ribbon" setting.
-4. Click on OK to save your changes and finish.
-5. You will now be able to see the button on your Excel spreadsheet. ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ee347425-a74d-4303-b074-d84c2db48526)
-
-
-   ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/1185318d-d5ed-4a24-bd3d-8a0f9d13bf19)
-
-
-
-
-## Thank you for using Agile Timesheet Automation!
-
-** For Queries jaisurya.r@agile-labs.com **
+### *Thank you for using Agile Timesheet Automation!*
+*For Queries jaisurya.r@agile-labs.com*
