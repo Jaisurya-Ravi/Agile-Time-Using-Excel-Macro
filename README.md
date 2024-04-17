@@ -16,7 +16,7 @@ Ensure you have the following prerequisites installed on your system:
 </br>
 </br>
 
-# 2 steps to configure permissions
+# 2 steps to enable permissions
 
 1. Open Excel by searching for it in the start menu.
 2. Navigate to File > Excel Options > Trust Center > Trust Center Settings > ActiveX Settings. Ensure that the options 'Enable all controls without restrictions and without prompting' and 'Safe mode' are enabled as shown in the screenshot below.
