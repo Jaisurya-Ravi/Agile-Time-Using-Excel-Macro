@@ -10,6 +10,20 @@ Ensure you have the following prerequisites installed on your system:
 - EA Sendmail Component Manager: [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe)
 - Browser Driver (e.g., Chromedriver): [Download](https://chromedriver.chromium.org/downloads)
 
+# steps to configure permissions
+
+1. Open Excel by searching for it in the start menu.
+2. Navigate to File > Excel Options > Trust Center > Trust Center Settings > ActiveX Settings. Ensure that the options 'Enable all controls without restrictions and without prompting' and 'Safe mode' are enabled as shown in the screenshot below.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/14251564-4c2c-4682-b90e-941823320dd6)
+
+3. Click 'OK' to save the changes.
+4. Next, go to File > Excel Options > Trust Center > Trust Center Settings > Macro Settings. Make sure that 'Enable All macros' and 'Trust Access to the VBA project object model' are enabled, as shown in the screenshot.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/cf87a7ab-b991-425a-83cf-404d323dbff9)
+
+5.  Click 'OK' again to save the changes.
+
 # 2 Installation Steps
 
 ## 2.1 Selenium Basic
