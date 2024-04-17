@@ -45,7 +45,7 @@ Ensure you have the following prerequisites installed on your system:
 ### *3.3 Updation of chromedriver*
 1. Launch Chrome browser or install it if not already installed.
 2. Navigate to Settings > About Chrome and note the version number.
-3. Download the compatible version of Chromedriver [Download](https://chromedriver.chromium.org/downloads) using the provided link based on your Chrome version.
+3. Download the compatible version of Chromedriver [Download](https://googlechromelabs.github.io/chrome-for-testing/) using the provided link based on your Chrome version.
 4. Replace the existing Chromedriver in the installation path of Selenium Basic with the downloaded one.
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd2d4878-bfd6-4da6-a3eb-e2df1992f48b)
