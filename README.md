@@ -39,6 +39,8 @@ Clone this repository to your local machine to access the macro-enabled Excel fi
 ```bash
 git clone https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro.git
 ```
+Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/releases/download/AgileTime1/AgileTime.xlsm)
+
 3. After completion, you will be able to access the macro-enabled Excel file.
 
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/2ab0b2ed-b133-4609-b52f-0c219861c77b)
