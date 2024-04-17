@@ -9,10 +9,9 @@ Ensure you have the following prerequisites installed on your system:
 2. Selenium Basic: [Download](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)
 3. EA Sendmail Component Manager: [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe)
 4. Browser Driver (e.g., Chromedriver): [Download](https://chromedriver.chromium.org/downloads)
-.
-.
-.
-.
+</br>
+</br>
+</br>
 
 # 2 steps to configure permissions
 
