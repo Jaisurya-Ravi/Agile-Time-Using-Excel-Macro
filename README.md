@@ -2,7 +2,7 @@
 
 Welcome to the Agile Timesheet Automation repository! Here, you will find the necessary steps to automate your Agile Timesheet process seamlessly.
 
-## 1 Prerequisites
+# 1 Prerequisites
 Ensure you have the following prerequisites installed on your system:
 
 - Microsoft Office 2007 or newer.
