@@ -37,12 +37,10 @@ Ensure you have the following prerequisites installed on your system:
 ### *3.1 Selenium Basic*
 1. Download the Selenium Basic executable from the provided link.
 2. Install Selenium Basic.
-</br>
 
 ### *3.2 EA Sendmail Component Manager*
 1. Download the EA Sendmail Component Manager executable from the provided link.
 2. Install EA Sendmail Component Manager.
-</br>
 
 ### *2.3 Updation of chromedriver*
 1. Launch Chrome browser or install it if not already installed.
@@ -51,8 +49,7 @@ Ensure you have the following prerequisites installed on your system:
 4. Replace the existing Chromedriver in the installation path of Selenium Basic with the downloaded one.
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd2d4878-bfd6-4da6-a3eb-e2df1992f48b)
-</br>
-
+   
 ### *2.4 Clone this repository*
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
