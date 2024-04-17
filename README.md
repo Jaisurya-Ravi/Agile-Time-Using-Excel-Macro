@@ -55,7 +55,7 @@ Ensure you have the following prerequisites installed on your system:
 
 # 4 Download Excel Sheet
 
-### *4.1 Clone this repository*
+### *4.1 Clone this repository [Or] Click Here to download* ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/releases/download/AgileTime1/AgileTime.xlsm)
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
@@ -65,7 +65,6 @@ Clone this repository to your local machine to access the macro-enabled Excel fi
 ```bash
 git clone https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro.git
 ```
-Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/releases/download/AgileTime1/AgileTime.xlsm)
 
 3. After completion, you will be able to access the macro-enabled Excel file.
 
