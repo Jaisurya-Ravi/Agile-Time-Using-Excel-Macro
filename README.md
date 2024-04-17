@@ -79,12 +79,16 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/dbe2a259-352a-44b3-b92c-a4bab26dbcbd)
 
-
 </br>
 </br>
 </br>
 
-# 3 Enabling permissions and Configuration
+# 4 Enabling custom macro-enabled buttons in an Excel sheet:
+
+1. Open the downloaded AgileTime Excel file.
+2. Navigate to File > Excel Options > Quick Access Toolbar. Check that the option 'Show Quick Access Toolbar below the Ribbon' is selected, then click 'OK' to apply the changes.
+3. Now, you will see the buttons below enabled in the Excel sheet, as illustrated in the screenshot.
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d9a1c4ef-7d5a-4f90-8700-f738127dacbd)
 
 ## User Details - Enter your Agile Time username, password, email ID, and manager ID in the respective cells.
 
