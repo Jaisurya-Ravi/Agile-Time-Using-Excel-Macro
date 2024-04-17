@@ -1,4 +1,6 @@
-# ! Automated Agile Timesheet Management
+```diff
+! # Automated Agile Timesheet Management
+```
 
 Welcome to the Agile Timesheet Automation repository! Here, you will find the necessary steps to automate your Agile Timesheet process seamlessly.
 </br>
