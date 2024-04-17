@@ -49,8 +49,11 @@ Ensure you have the following prerequisites installed on your system:
 4. Replace the existing Chromedriver in the installation path of Selenium Basic with the downloaded one.
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd2d4878-bfd6-4da6-a3eb-e2df1992f48b)
-   
-### *2.4 Clone this repository*
+</br>
+</br>
+</br>
+
+# 3 Clone this repository
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
@@ -65,6 +68,12 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 3. After completion, you will be able to access the macro-enabled Excel file.
 
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/2ab0b2ed-b133-4609-b52f-0c219861c77b)
+
+
+### *3.1 To grant security permission to the downloaded Excel sheet*
+
+Right-click on the downloaded Excel file and select 'Properties.'
+Ensure that the 'Unblock' option is checked under the general tab. Click 'Apply' and then 'OK' to enable security permissions for the Excel sheet, as shown in the screenshot below.
 </br>
 </br>
 </br>
