@@ -12,6 +12,7 @@ Ensure you have the following prerequisites installed on your system:
 </br>
 </br>
 </br>
+
 # 2 steps to configure permissions
 
 1. Open Excel by searching for it in the start menu.
@@ -28,16 +29,19 @@ Ensure you have the following prerequisites installed on your system:
 </br>
 </br>
 </br>
+
 # 3 Installation Steps
 
 ### *3.1 Selenium Basic*
 1. Download the Selenium Basic executable from the provided link.
 2. Install Selenium Basic.
 </br>
+
 ### *3.2 EA Sendmail Component Manager*
 1. Download the EA Sendmail Component Manager executable from the provided link.
 2. Install EA Sendmail Component Manager.
 </br>
+
 ### *2.3 Updation of chromedriver*
 1. Launch Chrome browser or install it if not already installed.
 2. Navigate to Settings > About Chrome and note the version number.
@@ -46,6 +50,7 @@ Ensure you have the following prerequisites installed on your system:
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd2d4878-bfd6-4da6-a3eb-e2df1992f48b)
 </br>
+
 ### *2.4 Clone this repository*
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
