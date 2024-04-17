@@ -8,9 +8,9 @@ Welcome to the Agile Timesheet Automation repository! Here, you will find the ne
 Ensure you have the following prerequisites installed on your system:
 
 1. Microsoft Office 2007 or newer.
-2. Selenium Basic: [Download](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe)
-3. EA Sendmail Component Manager: [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe)
-4. Browser Driver (e.g., Chromedriver): [Download](https://chromedriver.chromium.org/downloads)
+2. Selenium Basic
+3. EA Sendmail Component Manager
+4. Browser Driver (e.g., Chromedriver)
 </br>
 </br>
 </br>
@@ -35,17 +35,17 @@ Ensure you have the following prerequisites installed on your system:
 # 3 Installation Steps
 
 ### *3.1 Selenium Basic*
-1. Download the Selenium Basic executable from the provided link.
+1. Download the Selenium Basic [Download](https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe) executable from the provided link.
 2. Install Selenium Basic.
 
 ### *3.2 EA Sendmail Component Manager*
-1. Download the EA Sendmail Component Manager executable from the provided link.
+1. Download the EA Sendmail Component Manager [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe) executable from the provided link.
 2. Install EA Sendmail Component Manager.
 
 ### *3.3 Updation of chromedriver*
 1. Launch Chrome browser or install it if not already installed.
 2. Navigate to Settings > About Chrome and note the version number.
-3. Download the compatible version of Chromedriver using the provided link based on your Chrome version.
+3. Download the compatible version of Chromedriver [Download](https://chromedriver.chromium.org/downloads) using the provided link based on your Chrome version.
 4. Replace the existing Chromedriver in the installation path of Selenium Basic with the downloaded one.
 
    ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd2d4878-bfd6-4da6-a3eb-e2df1992f48b)
