@@ -10,7 +10,11 @@ Ensure you have the following prerequisites installed on your system:
 - EA Sendmail Component Manager: [Download](https://www.emailarchitect.net/webapp/download/easendmail.exe)
 - Browser Driver (e.g., Chromedriver): [Download](https://chromedriver.chromium.org/downloads)
 
-# steps to configure permissions
+
+
+
+
+# 2 steps to configure permissions
 
 1. Open Excel by searching for it in the start menu.
 2. Navigate to File > Excel Options > Trust Center > Trust Center Settings > ActiveX Settings. Ensure that the options 'Enable all controls without restrictions and without prompting' and 'Safe mode' are enabled as shown in the screenshot below.
@@ -24,13 +28,17 @@ Ensure you have the following prerequisites installed on your system:
 
 5.  Click 'OK' again to save the changes.
 
-# 2 Installation Steps
 
-## 2.1 Selenium Basic
+
+
+
+# 3 Installation Steps
+
+### 3.1 Selenium Basic
 1. Download the Selenium Basic executable from the provided link.
 2. Install Selenium Basic.
 
-## 2.2 EA Sendmail Component Manager
+## 3.2 EA Sendmail Component Manager
 1. Download the EA Sendmail Component Manager executable from the provided link.
 2. Install EA Sendmail Component Manager.
 
