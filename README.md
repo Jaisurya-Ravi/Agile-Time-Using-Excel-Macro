@@ -53,7 +53,9 @@ Ensure you have the following prerequisites installed on your system:
 </br>
 </br>
 
-# 3 Clone this repository
+# 3 Download Excel Sheet
+
+### *3.1 Clone this repository*
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
@@ -70,10 +72,14 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/2ab0b2ed-b133-4609-b52f-0c219861c77b)
 
 
-### *3.1 To grant security permission to the downloaded Excel sheet*
+### *3.2 To grant security permission to the downloaded Excel sheet*
 
-Right-click on the downloaded Excel file and select 'Properties.'
-Ensure that the 'Unblock' option is checked under the general tab. Click 'Apply' and then 'OK' to enable security permissions for the Excel sheet, as shown in the screenshot below.
+1. Right-click on the downloaded Excel file and select 'Properties.'
+2. Ensure that the 'Unblock' option is checked under the general tab. Click 'Apply' and then 'OK' to enable security permissions for the Excel sheet, as shown in the screenshot below.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/dbe2a259-352a-44b3-b92c-a4bab26dbcbd)
+
+
 </br>
 </br>
 </br>
