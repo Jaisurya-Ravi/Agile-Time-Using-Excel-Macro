@@ -91,8 +91,8 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/1b44c64a-a656-41f9-8351-e27af59d5b17)
 
 
-4. Now, you will see the buttons below enabled in the Excel sheet, as illustrated in the screenshot.
-![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d9a1c4ef-7d5a-4f90-8700-f738127dacbd)
+4. Now, you will see the buttons ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d9a1c4ef-7d5a-4f90-8700-f738127dacbd) enabled in the Excel sheet.
+
 </br>
 </br>
 </br>
