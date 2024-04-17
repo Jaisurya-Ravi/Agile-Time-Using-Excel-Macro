@@ -10,7 +10,8 @@ Ensure you have the following prerequisites installed on your system:
 1. Microsoft Office 2007 or newer.
 2. Selenium Basic
 3. EA Sendmail Component Manager
-4. Browser Driver (e.g., Chromedriver)
+4. Chrome Web Browser
+5. Browser Driver (Chromedriver)
 </br>
 </br>
 </br>
