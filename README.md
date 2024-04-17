@@ -42,7 +42,7 @@ Ensure you have the following prerequisites installed on your system:
 1. Download the EA Sendmail Component Manager executable from the provided link.
 2. Install EA Sendmail Component Manager.
 
-### *2.3 Updation of chromedriver*
+### *3.3 Updation of chromedriver*
 1. Launch Chrome browser or install it if not already installed.
 2. Navigate to Settings > About Chrome and note the version number.
 3. Download the compatible version of Chromedriver using the provided link based on your Chrome version.
@@ -53,9 +53,9 @@ Ensure you have the following prerequisites installed on your system:
 </br>
 </br>
 
-# 3 Download Excel Sheet
+# 4 Download Excel Sheet
 
-### *3.1 Clone this repository*
+### *4.1 Clone this repository*
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
@@ -72,7 +72,7 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/2ab0b2ed-b133-4609-b52f-0c219861c77b)
 
 
-### *3.2 To grant security permission to the downloaded Excel sheet*
+### *4.2 To grant security permission to the downloaded Excel sheet*
 
 1. Right-click on the downloaded Excel file and select 'Properties.'
 2. Ensure that the 'Unblock' option is checked under the general tab. Click 'Apply' and then 'OK' to enable security permissions for the Excel sheet, as shown in the screenshot below.
@@ -83,12 +83,40 @@ Click Here to download ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Tim
 </br>
 </br>
 
-# 4 Enabling custom macro-enabled buttons in an Excel sheet:
+# 5 Enabling custom macro-enabled buttons in an Excel sheet:
 
 1. Open the downloaded AgileTime Excel file.
-2. Navigate to File > Excel Options > Quick Access Toolbar. Check that the option 'Show Quick Access Toolbar below the Ribbon' is selected, then click 'OK' to apply the changes.
-3. Now, you will see the buttons below enabled in the Excel sheet, as illustrated in the screenshot.
+2. Navigate to File > Excel Options > Quick Access Toolbar. Check that the option 'Show Quick Access Toolbar below the Ribbon' is selected, then click 'OK' to apply the changes. as shown in the screenshot below.
+
+![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/1b44c64a-a656-41f9-8351-e27af59d5b17)
+
+
+4. Now, you will see the buttons below enabled in the Excel sheet, as illustrated in the screenshot.
 ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d9a1c4ef-7d5a-4f90-8700-f738127dacbd)
+</br>
+</br>
+</br>
+
+# 6 Features Overview
+
+1. User Details Sheet - Input your Agile Time username, password, email ID, and manager ID in the corresponding cells.
+2. Master Details Sheet and 'Update Master Data' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/14bb8ace-4570-4c32-8ad0-f7e5ad542efc)
+ Button - Automatically updates eligible task details from your Agile Time records when you click 'Update master data.'
+3. Timesheet Details Sheet and 'Upload Timesheet' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/7d4708ad-23b3-4cc1-b2a2-928084c2fd9b)
+ Button - Fill out task details; clicking 'Upload timesheet' updates your timesheet in Agile Time.
+4. Configuration Sheet and 'Mail My Timesheet' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/ac17dcb8-61b3-4206-be30-bbb287af1cd7)
+ Button - Configure email settings like SMTP address, host, sender email ID, subject, and body. 'Mail my Timesheet' sends an email to your specified address.
+5. 'User Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/bd02e629-c637-4a98-a04d-9ae038f5daed)
+ Button - Navigates to the 'User Details' Sheet.
+6. 'Master Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/89aa7427-2075-47d3-aa5f-e8d167a73b4b)
+ Button - Navigates to the 'Master Details' Sheet.
+7. 'Mail Configuration' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/d97b6c7f-b9d8-4be6-ba09-f3f7884d7664)
+  Button - Navigates to the 'Configuration' Sheet.
+8. 'Fill Timesheet Details' ![image](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/assets/142989519/cc380356-1ef6-42f5-b873-1f35dbcb48af)
+ Button - Navigates to the 'Timesheet Details' Sheet upon click.
+
+
+
 
 ## User Details - Enter your Agile Time username, password, email ID, and manager ID in the respective cells.
 
