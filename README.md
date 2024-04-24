@@ -118,4 +118,4 @@ git clone https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro.git
 </br>
 
 ### *Thank you for using Agile Timesheet Automation!*
-*Report a problem(Issue) when encountering difficulties with configuration or when using the functionality.*
+*Report a problem(Issue) [Click Here](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/issues/new) when encountering difficulties with configuration or when using the functionality.*
