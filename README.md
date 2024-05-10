@@ -56,7 +56,7 @@ Ensure you have the following prerequisites installed on your system by followin
 
 # 4 Download Excel Sheet
 
-### *4.1 Clone this repository [Or] Click Here to download* ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/releases/download/AgileTime1/AgileTime.xlsm)
+### *4.1 Clone this repository [Or] Click Here to download* ⇊ [Download](https://github.com/Jaisurya-Ravi/Agile-Time-Using-Excel-Macro/releases/download/Agiletime2/AgileTime_v1.xlsm)
 
 Clone this repository to your local machine to access the macro-enabled Excel file or download it from releases
 
