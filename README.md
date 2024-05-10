@@ -5,7 +5,7 @@ Welcome to the Agile Timesheet Automation repository! Here, you will find the ne
 </br>
 
 # 1 Prerequisites
-Ensure you have the following prerequisites installed on your system:
+Ensure you have the following prerequisites installed on your system by following the installation steps given in the below steps:
 
 1. Microsoft Office 2007 or newer.
 2. Selenium Basic
